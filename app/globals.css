@@ -25,3 +25,29 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+@font-face {
+  font-family: "Campton-Medium";
+  src: url("/fonts/Campton-Medium.otf") format("opentype");
+}
+
+
+@font-face {
+  font-family: "Campton-Black";
+  src: url("/fonts/Campton-Black.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Campton-Bold";
+  src: url("/fonts/Campton-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Campton-Light";
+  src: url("/fonts/Campton-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Campton-SemiBold";
+  src: url("/fonts/Campton-SemiBold.otf") format("opentype");
+}
